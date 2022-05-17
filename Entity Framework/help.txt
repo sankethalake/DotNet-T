@@ -1,0 +1,33 @@
+Connection String Data 
+Data Source=DESKTOP-A2H2D45;Initial Catalog=School;Integrated Security=True
+
+<connectionStrings>
+        <add name="my" providerName="System.Data.SqlClient" connectionString="Data Source=LAPTOP-DMFQU7FG\SQLEXPRESS;Initial Catalog=PersonalInfo;Persist Security Info=True;User ID=sa;Password=sa@1234; App=EntityFramework" />
+    </connectionStrings>
+
+public class Student
+    {
+        public int Id { get; set; }
+        public string FirstName{ get; set; }
+        public string MidName{ get; set; }
+        public string LastName { get; set; }
+
+    }
+
+    public class StudentDetailsContext : DbContext
+    {
+        public StudentDetailsContext() : base("my")
+        {
+
+        }
+
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Student>().HasKey<int>(s => s.Id);
+            modelBuilder.Entity<Student>().Property(s => s.FirstName).HasMaxLength(20);
+            modelBuilder.Entity<Student>().Property(s => s.FirstName).IsRequired();
+            modelBuilder.Entity<Student>().Property(s => s.MidName).IsOptional();
+            modelBuilder.Entity<Student>().Property(s => s.LastName).IsOptional();
+        }
+        public DbSet<Student> StudentDetails { get; set; }
+    }

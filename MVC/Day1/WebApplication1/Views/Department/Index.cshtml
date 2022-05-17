@@ -1,0 +1,39 @@
+﻿@model WebApplication1.Models.Dept
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<div>
+    <h4>Dept</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.DeptNo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DeptNo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.loc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.loc)
+        </dd>
+
+    </dl>
+</div>
+

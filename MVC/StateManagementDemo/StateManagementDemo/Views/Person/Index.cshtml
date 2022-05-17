@@ -1,0 +1,29 @@
+﻿@{ 
+    var per = ViewData["person"] as StateManagementDemo.Models.Person;
+}
+
+@*<h2>@ViewData["Header"]</h2>
+<table border="1" color="beige">
+    <tr>
+        <td>PID</td>
+        <td>@per.PId</td>
+    </tr>
+    <tr>
+        <td>Name</td>
+        <td>@per.Name</td>
+    </tr>
+    <tr>
+        <td>Address</td>
+        <td>@per.Address</td>
+    </tr>
+</table>*@
+
+<h2>List of courses</h2>
+    <ul>
+        @{ 
+            foreach (var courses in ViewData["Courses"] as List<string>)
+            {
+                <li> @courses </li>
+            }
+        }
+    </ul>
