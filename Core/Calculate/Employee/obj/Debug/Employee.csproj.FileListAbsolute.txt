@@ -1,0 +1,6 @@
+F:\Study material\DotNet\Core\Calculate\Employee\bin\Debug\Employee.dll
+F:\Study material\DotNet\Core\Calculate\Employee\bin\Debug\Employee.pdb
+F:\Study material\DotNet\Core\Calculate\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+F:\Study material\DotNet\Core\Calculate\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+F:\Study material\DotNet\Core\Calculate\Employee\obj\Debug\Employee.dll
+F:\Study material\DotNet\Core\Calculate\Employee\obj\Debug\Employee.pdb

@@ -1,0 +1,6 @@
+F:\Study material\DotNet\Core\Calculate\Calculate\bin\Debug\Calculate.dll
+F:\Study material\DotNet\Core\Calculate\Calculate\bin\Debug\Calculate.pdb
+F:\Study material\DotNet\Core\Calculate\Calculate\obj\Debug\Calculate.csproj.AssemblyReference.cache
+F:\Study material\DotNet\Core\Calculate\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+F:\Study material\DotNet\Core\Calculate\Calculate\obj\Debug\Calculate.dll
+F:\Study material\DotNet\Core\Calculate\Calculate\obj\Debug\Calculate.pdb

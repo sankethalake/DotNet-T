@@ -1,0 +1,5 @@
+F:\Study material\DotNet\Core\AllFeatures\AllFeatures\obj\Debug\netcoreapp3.1\AllFeatures.csproj.AssemblyReference.cache
+F:\Study material\DotNet\Core\AllFeatures\AllFeatures\obj\Debug\netcoreapp3.1\AllFeatures.GeneratedMSBuildEditorConfig.editorconfig
+F:\Study material\DotNet\Core\AllFeatures\AllFeatures\obj\Debug\netcoreapp3.1\AllFeatures.AssemblyInfoInputs.cache
+F:\Study material\DotNet\Core\AllFeatures\AllFeatures\obj\Debug\netcoreapp3.1\AllFeatures.AssemblyInfo.cs
+F:\Study material\DotNet\Core\AllFeatures\AllFeatures\obj\Debug\netcoreapp3.1\AllFeatures.csproj.CoreCompileInputs.cache

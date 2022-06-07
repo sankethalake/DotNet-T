@@ -1,0 +1,14 @@
+F:\Study material\DotNet\Core\Threading\Threading\bin\Debug\netcoreapp3.1\Threading.exe
+F:\Study material\DotNet\Core\Threading\Threading\bin\Debug\netcoreapp3.1\Threading.deps.json
+F:\Study material\DotNet\Core\Threading\Threading\bin\Debug\netcoreapp3.1\Threading.runtimeconfig.json
+F:\Study material\DotNet\Core\Threading\Threading\bin\Debug\netcoreapp3.1\Threading.runtimeconfig.dev.json
+F:\Study material\DotNet\Core\Threading\Threading\bin\Debug\netcoreapp3.1\Threading.dll
+F:\Study material\DotNet\Core\Threading\Threading\bin\Debug\netcoreapp3.1\Threading.pdb
+F:\Study material\DotNet\Core\Threading\Threading\obj\Debug\netcoreapp3.1\Threading.csproj.AssemblyReference.cache
+F:\Study material\DotNet\Core\Threading\Threading\obj\Debug\netcoreapp3.1\Threading.GeneratedMSBuildEditorConfig.editorconfig
+F:\Study material\DotNet\Core\Threading\Threading\obj\Debug\netcoreapp3.1\Threading.AssemblyInfoInputs.cache
+F:\Study material\DotNet\Core\Threading\Threading\obj\Debug\netcoreapp3.1\Threading.AssemblyInfo.cs
+F:\Study material\DotNet\Core\Threading\Threading\obj\Debug\netcoreapp3.1\Threading.csproj.CoreCompileInputs.cache
+F:\Study material\DotNet\Core\Threading\Threading\obj\Debug\netcoreapp3.1\Threading.dll
+F:\Study material\DotNet\Core\Threading\Threading\obj\Debug\netcoreapp3.1\Threading.pdb
+F:\Study material\DotNet\Core\Threading\Threading\obj\Debug\netcoreapp3.1\Threading.genruntimeconfig.cache

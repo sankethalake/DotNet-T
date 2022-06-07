@@ -1,0 +1,11 @@
+F:\Study material\DotNet\Core\WindowsFormsDemo\WindowsFormsDemo\bin\Debug\WindowsFormsDemo.exe.config
+F:\Study material\DotNet\Core\WindowsFormsDemo\WindowsFormsDemo\bin\Debug\WindowsFormsDemo.exe
+F:\Study material\DotNet\Core\WindowsFormsDemo\WindowsFormsDemo\bin\Debug\WindowsFormsDemo.pdb
+F:\Study material\DotNet\Core\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.csproj.AssemblyReference.cache
+F:\Study material\DotNet\Core\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.Form1.resources
+F:\Study material\DotNet\Core\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.Properties.Resources.resources
+F:\Study material\DotNet\Core\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.csproj.GenerateResource.cache
+F:\Study material\DotNet\Core\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.csproj.CoreCompileInputs.cache
+F:\Study material\DotNet\Core\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.exe
+F:\Study material\DotNet\Core\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.pdb
+F:\Study material\DotNet\Core\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.Form2.resources

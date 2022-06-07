@@ -1,0 +1,15 @@
+F:\Study material\DotNet\Core\Migrate_Demo\Migrate_Demo\bin\Debug\Migrate_Demo.exe.config
+F:\Study material\DotNet\Core\Migrate_Demo\Migrate_Demo\bin\Debug\Migrate_Demo.exe
+F:\Study material\DotNet\Core\Migrate_Demo\Migrate_Demo\bin\Debug\Migrate_Demo.pdb
+F:\Study material\DotNet\Core\Migrate_Demo\Migrate_Demo\bin\Debug\EntityFramework.dll
+F:\Study material\DotNet\Core\Migrate_Demo\Migrate_Demo\bin\Debug\EntityFramework.SqlServer.dll
+F:\Study material\DotNet\Core\Migrate_Demo\Migrate_Demo\bin\Debug\EntityFramework.xml
+F:\Study material\DotNet\Core\Migrate_Demo\Migrate_Demo\bin\Debug\EntityFramework.SqlServer.xml
+F:\Study material\DotNet\Core\Migrate_Demo\Migrate_Demo\obj\Debug\Migrate_Demo.csproj.AssemblyReference.cache
+F:\Study material\DotNet\Core\Migrate_Demo\Migrate_Demo\obj\Debug\Migrate_Demo.csproj.CoreCompileInputs.cache
+F:\Study material\DotNet\Core\Migrate_Demo\Migrate_Demo\obj\Debug\Migrate_Demo.csproj.CopyComplete
+F:\Study material\DotNet\Core\Migrate_Demo\Migrate_Demo\obj\Debug\Migrate_Demo.exe
+F:\Study material\DotNet\Core\Migrate_Demo\Migrate_Demo\obj\Debug\Migrate_Demo.pdb
+F:\Study material\DotNet\Core\Migrate_Demo\Migrate_Demo\obj\Debug\Migrate_Demo.Migrations.InitialCreate.resources
+F:\Study material\DotNet\Core\Migrate_Demo\Migrate_Demo\obj\Debug\Migrate_Demo.csproj.GenerateResource.cache
+F:\Study material\DotNet\Core\Migrate_Demo\Migrate_Demo\obj\Debug\Migrate_Demo.Migrations.AddPublisher.resources

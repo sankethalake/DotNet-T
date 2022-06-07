@@ -1,0 +1,36 @@
+﻿
+@model DataAnnotationDemo.Models.StudentModel
+<h1> Student Entry Fomr</h1>
+@using (Html.BeginForm("StudentDetails", "Home", FormMethod.Post))
+{
+<ol>
+    
+    <li>
+        @Html.LabelFor(m => m.Name)
+        @Html.TextBoxFor(m => m.Name)
+        @Html.ValidationMessageFor(m => m.Name)
+    </li>
+    <li>
+        @Html.LabelFor(m => m.Email)
+        @Html.TextBoxFor(m => m.Email)
+        @Html.ValidationMessageFor(m => m.Email)
+    </li>
+    <li>
+        @Html.LabelFor(m => m.Age)
+        @Html.TextBoxFor(m => m.Age)
+        @Html.ValidationMessageFor(m => m.Age)
+    </li>
+</ol>
+<input type="submit" value="Save student Data" />
+}
+<h3 style="color:blue">
+    Name:@ViewBag.Name
+    <br />
+    Email:@ViewBag.Email
+    <br />
+    Age:@ViewBag.Age
+    <br />
+</h3>
+
+
+

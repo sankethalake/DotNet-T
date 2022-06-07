@@ -1,0 +1,9 @@
+F:\Study material\DotNet\Core\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.config
+F:\Study material\DotNet\Core\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+F:\Study material\DotNet\Core\WindowsService2\WindowsService2\bin\Debug\WindowsService2.pdb
+F:\Study material\DotNet\Core\WindowsService2\WindowsService2\obj\Debug\WindowsService2.csproj.AssemblyReference.cache
+F:\Study material\DotNet\Core\WindowsService2\WindowsService2\obj\Debug\WindowsService2.ProjectInstaller.resources
+F:\Study material\DotNet\Core\WindowsService2\WindowsService2\obj\Debug\WindowsService2.csproj.GenerateResource.cache
+F:\Study material\DotNet\Core\WindowsService2\WindowsService2\obj\Debug\WindowsService2.csproj.CoreCompileInputs.cache
+F:\Study material\DotNet\Core\WindowsService2\WindowsService2\obj\Debug\WindowsService2.exe
+F:\Study material\DotNet\Core\WindowsService2\WindowsService2\obj\Debug\WindowsService2.pdb

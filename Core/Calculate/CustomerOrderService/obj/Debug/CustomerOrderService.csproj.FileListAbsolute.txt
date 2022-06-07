@@ -1,0 +1,6 @@
+F:\Study material\DotNet\Core\Calculate\CustomerOrderService\bin\Debug\CustomerOrderService.dll
+F:\Study material\DotNet\Core\Calculate\CustomerOrderService\bin\Debug\CustomerOrderService.pdb
+F:\Study material\DotNet\Core\Calculate\CustomerOrderService\obj\Debug\CustomerOrderService.csproj.AssemblyReference.cache
+F:\Study material\DotNet\Core\Calculate\CustomerOrderService\obj\Debug\CustomerOrderService.csproj.CoreCompileInputs.cache
+F:\Study material\DotNet\Core\Calculate\CustomerOrderService\obj\Debug\CustomerOrderService.dll
+F:\Study material\DotNet\Core\Calculate\CustomerOrderService\obj\Debug\CustomerOrderService.pdb

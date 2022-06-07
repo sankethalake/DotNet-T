@@ -1,0 +1,249 @@
+D:\i 2 eConsulting\security\securitydemo\bin\securitydemo.dll.config
+D:\i 2 eConsulting\security\securitydemo\bin\securitydemo.dll
+D:\i 2 eConsulting\security\securitydemo\bin\securitydemo.pdb
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\csc.exe
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\csc.exe.config
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\csc.rsp
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\csi.exe
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\csi.exe.config
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\csi.rsp
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\Microsoft.Managed.Core.targets
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\System.AppContext.dll
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\System.Collections.Immutable.dll
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\System.Console.dll
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\System.Globalization.Calendars.dll
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\System.IO.Compression.dll
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\System.IO.FileSystem.dll
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\System.Net.Http.dll
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\System.Net.Sockets.dll
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\System.ValueTuple.dll
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\System.Xml.XmlDocument.dll
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\System.Xml.XPath.dll
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\vbc.exe
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\vbc.exe.config
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\vbc.rsp
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\VBCSCompiler.exe
+D:\i 2 eConsulting\security\securitydemo\bin\roslyn\VBCSCompiler.exe.config
+D:\i 2 eConsulting\security\securitydemo\bin\Antlr3.Runtime.dll
+D:\i 2 eConsulting\security\securitydemo\bin\EntityFramework.dll
+D:\i 2 eConsulting\security\securitydemo\bin\EntityFramework.SqlServer.dll
+D:\i 2 eConsulting\security\securitydemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\i 2 eConsulting\security\securitydemo\bin\Microsoft.Web.Infrastructure.dll
+D:\i 2 eConsulting\security\securitydemo\bin\Newtonsoft.Json.dll
+D:\i 2 eConsulting\security\securitydemo\bin\System.Web.Helpers.dll
+D:\i 2 eConsulting\security\securitydemo\bin\System.Web.Mvc.dll
+D:\i 2 eConsulting\security\securitydemo\bin\System.Web.Optimization.dll
+D:\i 2 eConsulting\security\securitydemo\bin\System.Web.Razor.dll
+D:\i 2 eConsulting\security\securitydemo\bin\System.Web.WebPages.Deployment.dll
+D:\i 2 eConsulting\security\securitydemo\bin\System.Web.WebPages.dll
+D:\i 2 eConsulting\security\securitydemo\bin\System.Web.WebPages.Razor.dll
+D:\i 2 eConsulting\security\securitydemo\bin\WebGrease.dll
+D:\i 2 eConsulting\security\securitydemo\bin\EntityFramework.xml
+D:\i 2 eConsulting\security\securitydemo\bin\EntityFramework.SqlServer.xml
+D:\i 2 eConsulting\security\securitydemo\bin\System.Web.Helpers.xml
+D:\i 2 eConsulting\security\securitydemo\bin\System.Web.Mvc.xml
+D:\i 2 eConsulting\security\securitydemo\bin\System.Web.Optimization.xml
+D:\i 2 eConsulting\security\securitydemo\bin\System.Web.Razor.xml
+D:\i 2 eConsulting\security\securitydemo\bin\System.Web.WebPages.xml
+D:\i 2 eConsulting\security\securitydemo\bin\System.Web.WebPages.Deployment.xml
+D:\i 2 eConsulting\security\securitydemo\bin\System.Web.WebPages.Razor.xml
+D:\i 2 eConsulting\security\securitydemo\bin\Newtonsoft.Json.xml
+D:\i 2 eConsulting\security\securitydemo\bin\Antlr3.Runtime.pdb
+D:\i 2 eConsulting\security\securitydemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\i 2 eConsulting\security\securitydemo\obj\Debug\securitydemo.csproj.AssemblyReference.cache
+D:\i 2 eConsulting\security\securitydemo\obj\Debug\securitydemo.csproj.CoreCompileInputs.cache
+D:\i 2 eConsulting\security\securitydemo\obj\Debug\securitydemo.csproj.CopyComplete
+D:\i 2 eConsulting\security\securitydemo\obj\Debug\securitydemo.dll
+D:\i 2 eConsulting\security\securitydemo\obj\Debug\securitydemo.pdb
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\securitydemo.dll.config
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\securitydemo.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\securitydemo.pdb
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\csc.exe
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\csc.exe.config
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\csc.rsp
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\csi.exe
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\csi.exe.config
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\csi.rsp
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\Microsoft.Managed.Core.targets
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\System.AppContext.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\System.Collections.Immutable.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\System.Console.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\System.Globalization.Calendars.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\System.IO.Compression.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\System.IO.FileSystem.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\System.Net.Http.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\System.Net.Sockets.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\System.ValueTuple.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\System.Xml.XmlDocument.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\System.Xml.XPath.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\vbc.exe
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\vbc.exe.config
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\vbc.rsp
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\VBCSCompiler.exe
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\roslyn\VBCSCompiler.exe.config
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\Antlr3.Runtime.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\EntityFramework.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\EntityFramework.SqlServer.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\Microsoft.Web.Infrastructure.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\Newtonsoft.Json.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\System.Web.Helpers.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\System.Web.Mvc.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\System.Web.Optimization.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\System.Web.Razor.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\System.Web.WebPages.Deployment.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\System.Web.WebPages.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\System.Web.WebPages.Razor.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\WebGrease.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\EntityFramework.xml
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\EntityFramework.SqlServer.xml
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\System.Web.Helpers.xml
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\System.Web.Mvc.xml
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\System.Web.Optimization.xml
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\System.Web.Razor.xml
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\System.Web.WebPages.xml
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\System.Web.WebPages.Deployment.xml
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\System.Web.WebPages.Razor.xml
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\Newtonsoft.Json.xml
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\Antlr3.Runtime.pdb
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\obj\Debug\securitydemo.csproj.AssemblyReference.cache
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\obj\Debug\securitydemo.csproj.CoreCompileInputs.cache
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\obj\Debug\securitydemo.csproj.CopyComplete
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\obj\Debug\securitydemo.dll
+D:\WEB ENTITY DEMOS LATEST NOW\security\securitydemo\obj\Debug\securitydemo.pdb
+F:\Study material\DotNet\MVC\securitydemo\bin\securitydemo.dll.config
+F:\Study material\DotNet\MVC\securitydemo\bin\securitydemo.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\securitydemo.pdb
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\csc.exe
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\csc.exe.config
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\csc.rsp
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\csi.exe
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\csi.exe.config
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\csi.rsp
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\System.AppContext.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\System.Collections.Immutable.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\System.Console.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\System.Globalization.Calendars.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\System.IO.Compression.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\System.IO.FileSystem.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\System.Net.Http.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\System.Net.Sockets.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\System.Reflection.Metadata.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\System.ValueTuple.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\System.Xml.XPath.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\vbc.exe
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\vbc.exe.config
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\vbc.rsp
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\VBCSCompiler.exe
+F:\Study material\DotNet\MVC\securitydemo\bin\roslyn\VBCSCompiler.exe.config
+F:\Study material\DotNet\MVC\securitydemo\bin\Antlr3.Runtime.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\EntityFramework.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\EntityFramework.SqlServer.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\Microsoft.Web.Infrastructure.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\Newtonsoft.Json.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\System.Web.Helpers.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\System.Web.Mvc.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\System.Web.Optimization.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\System.Web.Razor.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\System.Web.WebPages.Deployment.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\System.Web.WebPages.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\System.Web.WebPages.Razor.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\WebGrease.dll
+F:\Study material\DotNet\MVC\securitydemo\bin\EntityFramework.xml
+F:\Study material\DotNet\MVC\securitydemo\bin\EntityFramework.SqlServer.xml
+F:\Study material\DotNet\MVC\securitydemo\bin\System.Web.Helpers.xml
+F:\Study material\DotNet\MVC\securitydemo\bin\System.Web.Mvc.xml
+F:\Study material\DotNet\MVC\securitydemo\bin\System.Web.Optimization.xml
+F:\Study material\DotNet\MVC\securitydemo\bin\System.Web.Razor.xml
+F:\Study material\DotNet\MVC\securitydemo\bin\System.Web.WebPages.xml
+F:\Study material\DotNet\MVC\securitydemo\bin\System.Web.WebPages.Deployment.xml
+F:\Study material\DotNet\MVC\securitydemo\bin\System.Web.WebPages.Razor.xml
+F:\Study material\DotNet\MVC\securitydemo\bin\Newtonsoft.Json.xml
+F:\Study material\DotNet\MVC\securitydemo\bin\Antlr3.Runtime.pdb
+F:\Study material\DotNet\MVC\securitydemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Study material\DotNet\MVC\securitydemo\obj\Debug\securitydemo.csproj.AssemblyReference.cache
+F:\Study material\DotNet\MVC\securitydemo\obj\Debug\securitydemo.csproj.CoreCompileInputs.cache
+F:\Study material\DotNet\MVC\securitydemo\obj\Debug\securitydemo.csproj.CopyComplete
+F:\Study material\DotNet\MVC\securitydemo\obj\Debug\securitydemo.dll
+F:\Study material\DotNet\MVC\securitydemo\obj\Debug\securitydemo.pdb

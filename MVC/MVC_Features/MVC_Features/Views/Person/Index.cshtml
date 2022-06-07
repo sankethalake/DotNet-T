@@ -1,0 +1,24 @@
+﻿@model MVC_Features.Models.Person
+
+<h3><b>Forms - HTTPGET Method</b></h3>
+
+@using (Html.BeginForm("Submit", "Person", FormMethod.Get))
+            {
+<table>
+    <tr>
+        <td>Enter ID: </td>
+        <td>@Html.TextBox("PId")</td>
+    </tr>
+    <tr>
+        <td>Enter Name: </td>
+        <td>@Html.TextBox("PName")</td>
+    </tr>
+    <tr>
+        <td colspan="2"><input type="submit" value="submit" /></td>
+    </tr>
+</table>
+<h4 style="color:purple">
+    ID: @ViewBag.PId<br />
+    Name: @ViewBag.PName<br />
+</h4>
+            }

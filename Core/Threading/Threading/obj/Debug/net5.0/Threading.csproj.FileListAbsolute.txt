@@ -1,0 +1,15 @@
+F:\Study material\DotNet\Core\Threading\Threading\bin\Debug\net5.0\Threading.exe
+F:\Study material\DotNet\Core\Threading\Threading\bin\Debug\net5.0\Threading.deps.json
+F:\Study material\DotNet\Core\Threading\Threading\bin\Debug\net5.0\Threading.runtimeconfig.json
+F:\Study material\DotNet\Core\Threading\Threading\bin\Debug\net5.0\Threading.runtimeconfig.dev.json
+F:\Study material\DotNet\Core\Threading\Threading\bin\Debug\net5.0\Threading.dll
+F:\Study material\DotNet\Core\Threading\Threading\bin\Debug\net5.0\ref\Threading.dll
+F:\Study material\DotNet\Core\Threading\Threading\bin\Debug\net5.0\Threading.pdb
+F:\Study material\DotNet\Core\Threading\Threading\obj\Debug\net5.0\Threading.GeneratedMSBuildEditorConfig.editorconfig
+F:\Study material\DotNet\Core\Threading\Threading\obj\Debug\net5.0\Threading.AssemblyInfoInputs.cache
+F:\Study material\DotNet\Core\Threading\Threading\obj\Debug\net5.0\Threading.AssemblyInfo.cs
+F:\Study material\DotNet\Core\Threading\Threading\obj\Debug\net5.0\Threading.csproj.CoreCompileInputs.cache
+F:\Study material\DotNet\Core\Threading\Threading\obj\Debug\net5.0\Threading.dll
+F:\Study material\DotNet\Core\Threading\Threading\obj\Debug\net5.0\ref\Threading.dll
+F:\Study material\DotNet\Core\Threading\Threading\obj\Debug\net5.0\Threading.pdb
+F:\Study material\DotNet\Core\Threading\Threading\obj\Debug\net5.0\Threading.genruntimeconfig.cache
