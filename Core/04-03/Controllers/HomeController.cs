@@ -31,6 +31,18 @@ namespace _04_03.Controllers
             });
         }
 
+        public IActionResult GetEmployeeList()
+        {
+            var emp = new List<Employee> { 
+                new Employee {ID=1, Name= "John", Salary = 10000,Permanent = true },
+                new Employee {ID=2, Name= "Smith", Salary = 5000,Permanent = false },
+                new Employee {ID=3, Name= "Mark", Salary = 5000,Permanent = false },
+                new Employee {ID=4, Name= "Mary", Salary = 5000,Permanent = false },
+            };
+
+            return View(emp);
+        }
+
         public IActionResult Privacy()
         {
             return View();
