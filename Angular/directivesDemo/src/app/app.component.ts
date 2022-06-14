@@ -7,4 +7,30 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'directivesDemo';
+
+ // ng if demo
+  showmsg =false;
+  readme(){
+    this.showmsg=true;
+    console.log('button clicked');
+  }
+ //ng for directive
+  people:any[] = [
+    {
+      "name":"Douglas pace"
+    },
+    {
+      "name":"Jay Joshi"
+    },
+    {
+      "name":"Anant Rajpurohit"
+    },
+    {
+      "name":"Yash Gaikwad"
+    },
+  ]
+
+  // forms directive
+  username: string="Forms Directive";
+
 }
